@@ -6,8 +6,6 @@ labels: [bug]
 assignees: []
 ---
 
-> Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
-
 **Describe the bug**
 
 A clear and concise description of what the bug is.  Include links or file paths if applicable.
