@@ -1,8 +1,7 @@
-> Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
 
 # Roadmap
 
-Apollo Care’s development roadmap is divided into phases.  The objectives and timelines below are aspirational; execution depends on DAO votes, market conditions and regulatory developments.
+Apollo Care’s development roadmap is divided into phases.  The objectives and timelines below are aspirational; execution depends on platform development, DAO maturity, market conditions and regulatory developments.
 
 ## Phase 1 – DAO Formation & Fundraising
 
@@ -17,7 +16,7 @@ Apollo Care’s development roadmap is divided into phases.  The objectives and 
 * **Enable staking of $APH** into the contingent capital pool; establish liquidation caps and reward schedules.  
 * **Enhance AI‑assisted claims adjudication** with more data sources and machine learning models; reduce manual reviews.  
 * **Expand cost‑sharing pools** to additional coverage tiers and member segments.  
-* **Explore reinsurance partnerships** and pilot regulatory sandboxes【830535318348417†L180-L198】.  
+* **Explore reinsurance partnerships** and pilot regulatory sandboxes.  
 * **Target objective (forward‑looking):** Demonstrate sustainable reserves (CAR ≥ 125%), grow membership while maintaining solvency and refine pricing parameters.
 
 ## Phase 3 – Expansion & Regulatory Pathway
