@@ -1,17 +1,16 @@
-> Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
 
 # Claims Liquidity Waterfall
 
-Apollo pays approved claims through a predefined waterfall that prioritises readily available funds and protects long‑term capital.  The waterfall logic is codified in smart contracts and enforced transparently on‑chain.【214961381664349†L642-L687】.
+Apollo pays approved claims through a predefined waterfall that prioritises readily available funds and protects long‑term capital.  The waterfall logic is codified in smart contracts and enforced transparently on‑chain.
 
 ## Overview
 
-1. **Tier 0 – Real‑Time Liquidity:** Claims are paid first from the on‑hand USDC buffer (Tier 0)【214961381664349†L642-L651】.  This buffer covers day‑to‑day claims and is continuously refilled by contributions.【214961381664349†L618-L623】.
-2. **Current Contributions:** Incoming member contributions are swept into Tier 0 to replenish amounts spent【214961381664349†L653-L659】.
-3. **Tier 1 Reserve Draw:** If Tier 0 cannot be fully replenished, funds are drawn from the Tier 1 operating reserve【214961381664349†L661-L666】.
-4. **Tier 2 Activation:** When Tier 1 is insufficient, Tier 2 is activated.  The DAO Treasury portion of Tier 2 is used first【214961381664349†L670-L677】.  Only after the treasury is depleted does the protocol liquidate staked $APH to raise USDC for claims【214961381664349†L670-L681】.  Any utilisation of Tier 2 raises alerts to the DAO.
+1. **Tier 0 – Real‑Time Liquidity:** Claims are paid first from the on‑hand USDC buffer (Tier 0).  This buffer covers day‑to‑day claims and is continuously refilled by contributions..
+2. **Current Contributions:** Incoming member contributions are swept into Tier 0 to replenish amounts spent.
+3. **Tier 1 Reserve Draw:** If Tier 0 cannot be fully replenished, funds are drawn from the Tier 1 operating reserve.
+4. **Tier 2 Activation:** When Tier 1 is insufficient, Tier 2 is activated.  The DAO Treasury portion of Tier 2 is used first.  Only after the treasury is depleted does the protocol liquidate staked $APH to raise USDC for claims.  Any utilisation of Tier 2 raises alerts to the DAO.
 
-External reinsurance may reimburse the protocol for extreme claims, but Apollo pays members upfront and then recovers from reinsurers【214961381664349†L697-L703】.
+External reinsurance may reimburse the protocol for extreme claims, but Apollo pays members upfront and then recovers from reinsurers.
 
 ## Diagram
 
