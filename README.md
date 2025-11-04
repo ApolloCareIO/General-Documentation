@@ -8,7 +8,7 @@ Apollo Care is a **community‑owned health coverage protocol** built on Solana.
 
 ## Overview
 
-Apollo Care separates health coverage from token ownership. Members obtain coverage by choosing a coverage level and paying monthly USDC premiums; they do not need to own any tokens to access care. $APH holders participate in governance and may optionally stake tokens as backstop capital【684450145845687†L180-L207】.
+Apollo Care separates health coverage from token ownership. Members obtain coverage by choosing a coverage level and paying monthly USDC premiums; they do not need to own any tokens to access care. $APH holders participate in governance and may optionally stake tokens as backstop capital.
 
 ### Member Journey
 
