@@ -24,7 +24,7 @@ Apollo Care’s development roadmap is divided into phases.  The objectives and 
 * **Pursue full insurance licensing** or partnerships to offer regulated health insurance alongside the cost‑sharing model.  
 * **Integrate compliance modules** (e.g., rate filings, consumer protections) into governance.  
 * **Scale provider network and partnerships** for seamless crypto‑to‑fiat claims payments.  
-* **Global or multi‑state expansion** subject to regulatory approvals and DAO votes.  
+* **National or multi‑state expansion** subject to regulatory approvals and DAO votes.  
 * **Target objective (forward‑looking):** Transition from a health care sharing ministry to a fully regulated insurance carrier while preserving community governance and efficiency.
 
 Each phase builds on the previous one, and progress will be communicated transparently through DAO proposals and status updates.  Milestones may be adjusted based on experience, membership growth, regulatory feedback and economic conditions.
