@@ -25,10 +25,4 @@ $APH grants voting rights on protocol upgrades, contribution parameters, committ
 
 Transfers of $APH are subject to a **2% transaction tax**, intended to fund the community treasury and liquidity initiatives.  The tax can be reduced or sunset via DAO vote.  After the presale/ICO, all protocol‑controlled allocations (Community Fund, Reserve, Liquidity, Operations) will reside in DAO‑controlled multisig wallets.
 
-## Token Flow Diagram
-
-The high‑level flow of tokens from the total supply to the main allocation buckets is illustrated below.
-
-![Token flow](assets/token-flow.png)
-
 > Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
