@@ -1,4 +1,3 @@
-> Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
 
 # System Architecture (High‑Level View)
 
@@ -12,19 +11,19 @@ Implements the R‑MCA described in the actuarial specification.  Smart contract
 
 ### Claims Engine (CPCA)
 
-Processes claims submissions and routes them through the fast‑lane, AI‑assisted triage and committee review workflows【214961381664349†L745-L899】.  Smart contracts manage claim states and payments, while off‑chain AI services perform document extraction and anomaly detection.  Governance controls thresholds and escalation rules.
+Processes claims submissions and routes them through the fast‑lane, AI‑assisted triage and committee review workflows.  Smart contracts manage claim states and payments, while off‑chain AI services perform document extraction and anomaly detection.  Governance controls thresholds and escalation rules.
 
 ### Reserve & Liquidity Management
 
-Manages the Tier 0 liquidity buffer, Tier 1 operating reserve and Tier 2 contingent capital.  The reserve module implements the claims payment waterfall【214961381664349†L642-L687】 and automatically allocates incoming contributions.  It interacts with treasury contracts and staking contracts for Tier 2.
+Manages the Tier 0 liquidity buffer, Tier 1 operating reserve and Tier 2 contingent capital.  The reserve module implements the claims payment waterfall and automatically allocates incoming contributions.  It interacts with treasury contracts and staking contracts for Tier 2.
 
 ### Reinsurance & Risk Transfer
 
-Interfaces with off‑chain reinsurers via legally binding contracts signed by the DAO LLC.  Smart contracts can pay claims upfront and later reimburse the pool when reinsurers settle【214961381664349†L697-L703】.  Governance specifies coverage limits, attachment points and reinsurer selection.
+Interfaces with off‑chain reinsurers via legally binding contracts signed by the DAO LLC.  Smart contracts can pay claims upfront and later reimburse the pool when reinsurers settle.  Governance specifies coverage limits, attachment points and reinsurer selection.
 
 ### Governance
 
-DAO governance is implemented via on‑chain voting modules.  Token holders can submit proposals, vote, delegate votes and elect committee members.  Off‑chain interfaces (web/mobile) allow non‑technical users to participate.  A legal wrapper (DAO LLC) executes off‑chain contracts on behalf of the DAO【830535318348417†L50-L73】.
+DAO governance is implemented via on‑chain voting modules.  Token holders can submit proposals, vote, delegate votes and elect committee members.  Off‑chain interfaces (web/mobile) allow non‑technical users to participate.  A legal wrapper (DAO LLC) executes off‑chain contracts on behalf of the DAO.
 
 ### Oracles & Data Feeds
 
