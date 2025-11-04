@@ -1,4 +1,3 @@
-> Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
 
 # Risk Factors
 
@@ -6,7 +5,7 @@ Participation in Apollo Care involves risks.  This section summarises key risk c
 
 ## Regulatory & Legal Risk
 
-Apollo operates as a cost‑sharing program and is not licensed as an insurance company.  Changes in laws or enforcement priorities could classify Apollo as insurance and subject it to regulatory requirements.  Apollo intends to pursue licences in future phases, but there is no guarantee that authorisation will be granted or that regulatory regimes will remain favourable【830535318348417†L88-L100】.
+Apollo operates as a cost‑sharing program and is not licensed as an insurance company.  Changes in laws or enforcement priorities could classify Apollo as insurance and subject it to regulatory requirements.  Apollo intends to pursue licences in future phases, but there is no guarantee that authorisation will be granted or that regulatory regimes will remain favourable.
 
 ## Smart‑Contract Risk
 
@@ -26,7 +25,7 @@ The protocol depends on oracles, AI services and external providers.  Failures o
 
 ## Liquidity & Solvency Risk
 
-Claims volatility, pandemics or black swan events could exceed reserves.  Apollo mitigates this via its three‑tier model (liquidity buffer, operating reserve and contingent capital)【214961381664349†L618-L637】 and by purchasing reinsurance, but there is no guarantee that reserves will be sufficient.  In extreme cases, claims may be delayed, enrolment may be paused or contributions may be increased【214961381664349†L1575-L1603】.
+Claims volatility, pandemics or black swan events could exceed reserves.  Apollo mitigates this via its three‑tier model (liquidity buffer, operating reserve and contingent capital)and by purchasing reinsurance, but there is no guarantee that reserves will be sufficient.  In extreme cases, claims may be delayed, enrolment may be paused or contributions may be increased.
 
 ## Counterparty Risk
 
