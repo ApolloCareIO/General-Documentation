@@ -6,8 +6,6 @@ labels: [documentation]
 assignees: []
 ---
 
-> Forward‑Looking Statement: This document contains forward‑looking statements subject to significant risks and uncertainties. Nothing herein is investment, legal, or medical advice. Features, timelines, and parameters are examples and remain subject to DAO approval and market/regulatory conditions.
-
 **Describe the documentation update you would like**
 
 Which document(s) need changes?  What new information should be added?  Provide as much detail as possible.
