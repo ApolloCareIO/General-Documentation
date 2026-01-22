@@ -84,13 +84,13 @@ Phase 1 members receive clear disclosures:
 │                    PHASE 1 DISCLOSURES                          │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  ⚠️  This is NOT insurance.                                      │
+│  ⚠️  This is NOT insurance.                                     │
 │                                                                 │
-│  ⚠️  Sharing of medical expenses is voluntary.                   │
+│  ⚠️  Sharing of medical expenses is voluntary.                  │
 │                                                                 │
-│  ⚠️  There is no guarantee that your expenses will be shared.    │
+│  ⚠️  There is no guarantee that your expenses will be shared.   │
 │                                                                 │
-│  ⚠️  This program is not subject to state insurance regulations. │
+│  ⚠️  This program is not subject to state insurance regulations.│
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
