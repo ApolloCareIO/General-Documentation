@@ -187,7 +187,7 @@ Apollo's three-tier claims system:
 │  • Claims < $500-$1,000                                         │
 │  • Eligible categories (primary care, generic Rx, labs)         │
 │  • No fraud flags                                               │
-│  → INSTANT PAYOUT (seconds)                                     │
+│  → FAST REIMBURSEMENT (seconds-minutes)                                     │
 ├─────────────────────────────────────────────────────────────────┤
 │  TIER 2: AI-ASSISTED TRIAGE                                     │
 │  • Claims $500-$5,000                                           │
