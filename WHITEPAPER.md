@@ -50,7 +50,7 @@ The timing for Apollo Care is critical. Several powerful forces are converging:
 | **72% Premium Concern** | Americans feel healthcare costs are rising too fast |
 | **ICHRA Growth** | 1.7M projected enrollment by 2025 in Individual Coverage HRAs |
 | **Tech Maturity** | Blockchain and DeFi enable secure, transparent protocols |
-| **Societal Shifts** | Gig economy and remote work demand flexible solutions |
+| **Societal Shifts** | Gig economy and remote work demand flexible solutions and general dissatisfaction with status quo coverage providers|
 
 ---
 
