@@ -47,7 +47,7 @@ Apollo Care's reserve system is designed with **solvency as the primary constrai
 │                                                                 │
 │ ┌─────────────────────────────────────────────────────────────┐ │
 │ │  TIER 0: LIQUIDITY BUFFER                                   │ │
-│ │  ├─ Target: 7-30 days of claims                             │ │
+│ │  ├─ Target: 0-30 days of claims                             │ │
 │ │  ├─ Funded by: Current premium inflow                       │ │
 │ │  ├─ Purpose: Instant claim payouts                          │ │
 │ │  └─ Status: Always liquid, never invested                   │ │
