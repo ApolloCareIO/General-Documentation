@@ -245,7 +245,7 @@ Not all staked APH counts toward CAR:
 
 | Tier | Purpose | Target | Funding Source |
 |------|---------|--------|----------------|
-| **Tier 0** | Liquidity Buffer | 7-30 days claims | Premium inflow |
+| **Tier 0** | Liquidity Buffer | 0-30 days claims | Premium inflow |
 | **Tier 1** | Operating Reserve | 30-60 days claims | Excess premiums |
 | **Tier 2** | Contingent Capital | 6+ months | Treasury + Staked APH |
 
